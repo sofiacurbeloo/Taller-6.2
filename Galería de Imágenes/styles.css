@@ -20,3 +20,13 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+h1:hover {
+    background-color: #daf1ff;
+    color: #002b7c;
+}
+
+h2:hover {
+    background-color: #daf1ff;
+    color: #002b7c;
+}
