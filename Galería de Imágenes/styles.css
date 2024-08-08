@@ -13,11 +13,12 @@ body {
 
 .link-button {
     text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
+    color: #333333;
+    border: none;
+    background-color: #ffffff7f;
     padding: 5px;
     border-radius: 5px;
+<<<<<<< Updated upstream
     box-shadow: 2px 3px #888888;
 }
 
@@ -30,3 +31,12 @@ h2:hover {
     background-color: #daf1ff;
     color: #002b7c;
 }
+=======
+    box-shadow: 0 0 20px #444444;
+}
+
+.link-button:hover{
+    background-color: #0000007f; 
+    color: #fff
+}
+>>>>>>> Stashed changes
